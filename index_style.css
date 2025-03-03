@@ -1,3 +1,11 @@
 #title, #blog_title {
   color: rgb(210, 43, 43);
 }
+
+body {
+  background-color: rgb(211, 211, 211);
+}
+
+ul {
+  list-style-type: square;
+}
